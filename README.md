@@ -121,15 +121,6 @@ Average GPA sits between **2.99 and 3.05** for Arts, Business, Engineering and C
 
 ---
 
-## ▶️ Run It Yourself
-
-1. **Download** this repository (green **Code** button → **Download ZIP**)
-2. Open `report/Student_Performance_Dashboard.pbix` in [Power BI Desktop](https://powerbi.microsoft.com/desktop/) (free)
-3. If Power BI asks for the data, go to **Home → Transform data → Data source settings → Change Source** and select `data/Cleaned_Student_Data.csv`
-4. Click the **Risk Level** filter to explore each group
-
----
-
 ## 👤 Author
 
 **Madhavi Kapoor**
