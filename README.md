@@ -11,8 +11,7 @@
 
 <br>
 
-![Dashboard Preview](screenshots/dashboard-overview.png)
-
+![Dashboard Preview](C:\Users\kapoo\Desktop\student-performance-risk-dashboard)
 </div>
 
 ---
