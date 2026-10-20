@@ -11,9 +11,6 @@
 
 <br>
 
-![Dashboard Preview](C:\Users\kapoo\Desktop\student-performance-risk-dashboard)
-</div>
-
 ---
 
 ## 📖 About the Project
