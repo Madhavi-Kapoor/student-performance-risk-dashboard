@@ -125,21 +125,6 @@ Average GPA sits between **2.99 and 3.05** for Arts, Business, Engineering and C
 
 ---
 
-## 📁 Repository Structure
-
-```
-📦 student-performance-dashboard
- ┣ 📂 data
- ┃ ┗ 📄 Cleaned_Student_Data.csv
- ┣ 📂 report
- ┃ ┗ 📄 Student_Performance_Dashboard.pbix
- ┣ 📂 screenshots
- ┃ ┗ 🖼️ dashboard-overview.png
- ┗ 📄 README.md
-```
-
----
-
 ## ▶️ Run It Yourself
 
 1. **Download** this repository (green **Code** button → **Download ZIP**)
@@ -151,11 +136,11 @@ Average GPA sits between **2.99 and 3.05** for Arts, Business, Engineering and C
 
 ## 👤 Author
 
-**[Your Name]**
+**Madhavi Kapoor**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhavi-kapoor-a2a3a4377/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Madhavi-Kapoor)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:madhavikapoor2006@example.com)
 
 <div align="center">
 
